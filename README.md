@@ -29,5 +29,5 @@ Please review their privacy policies:
 
 ## Contact
 
-If you have any questions about this policy, contact us at: nordgrenstudio@gmail.com
+If you have any questions about this policy, contact us at: [nordgrenstudio@gmail.com](mailto:nordgrenstudio@gmail.com)
 
